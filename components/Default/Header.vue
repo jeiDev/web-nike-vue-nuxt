@@ -78,6 +78,7 @@ export default {
         display: flex;
         align-items: center;
         box-sizing: border-box;
+        z-index: 1000;
     }
 
     header>.column{
