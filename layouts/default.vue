@@ -43,4 +43,11 @@ li{
 body{
   background-color: black;
 }
+
+.margin-box{
+  width: 100vw;
+  padding-top: 90px;
+  padding-left: 130px;
+  position: relative;
+}
 </style>
